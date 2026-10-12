@@ -4,7 +4,9 @@
 |---|---|
 |1|Deleleted File Recovery|
 |2|Filesystem Timeline Creation & Analysis|
-|3|File Format Examination|
+|3|File Integrity Verification|
+|4|File Format Examination|
+|5| Disk Imaging|
 
 
 
